@@ -9,7 +9,7 @@
 <p>1: Open the game in your web browser by clicking on the "index.html" file.
 <br>2: The game window will appear, displaying a grid of holes.
 <br>3: Moles will randomly pop up from the holes for a short duration.
-<br>4: Use your mouse or touchscreen to click on the moles and whack them back into their holes.effects/search/touch/.
+<br>4: Use your mouse or touchscreen to click on the moles and whack them back into their holes.
 <br>5: Each mole successfully whacked earns you points.
 <br>6: If you toches the plant in game the game .
 <br>7: Your final score will be displayed at the end of the game.</p>
