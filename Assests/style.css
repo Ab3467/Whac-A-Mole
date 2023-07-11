@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: url("/images/Super\ Mario\ Hd\ Wallpaper\ Full\ Desktop\ Backgrounds.png");
+    background-size: cover;
+}
+
+body h1 {
+    color: rgb(81, 13, 228);
+}
+
+body h2 {
+    color: rgb(81, 13, 228);
+}
+
+#board {
+    width: 360px;
+    height: 370px;
+    background-color: firebrick;
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+
+    background: url("/images/soil.jpg");
+    background-size: cover;
+    border: 3px solid rgb(53, 29, 29);
+    border-radius: 25px;
+
+}
+
+#board div {
+    width: 120px;
+    height: 120px;
+    align-content: center;
+    background-image: url("/images/pipe-removebg-preview.png");
+    background-size: cover;
+}
+
+#board div img {
+    width: 100px;
+    height: 100px;
+
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
